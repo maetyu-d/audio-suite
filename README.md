@@ -1,4 +1,4 @@
-The three applications below are built in Python and tested on Mac OS Ventura 13.7.8. Once you have installed PyQt6, pyqtgraph, numpy and soundfile (in the Terminal, run "pip install PyQt6 pyqtgraph numpy soundfile"), it should just be a case of cd into the folder of the app you want to run, then run "python main.py" (depending on which version of Python you have installed, this may be "python3 main.py"). 
+The applications below are built in Python and tested on Mac OS Ventura 13.7.8. Once you have installed PyQt6, pyqtgraph, numpy and soundfile (in the Terminal, run "pip install PyQt6 pyqtgraph numpy soundfile"), it should just be a case of cd into the folder of the app you want to run, then run "python main.py" (depending on which version of Python you have installed, this may be "python3 main.py"). 
 
 Microsound is a sound-generation application focused on microsound, offering a wide range of unusual, experimental, and novel synthesis techniques. Most notably, it can generate an initial transient at extremely high sample rates (optionally band-limited), then unfold this transient by up to hundreds of times in the time domain and/or stretch its spectrum by up to ×4.0. https://youtu.be/s1LnN1odIZE
 
@@ -6,6 +6,6 @@ Grid Audio is a deliberately warped take on a DAW: simple in some respects, but 
 
 Pattern Lab explores algorithmically generated musical patterns, realised through a Mega Drive–style chiptunes synthesizer. Extensive pattern generation and parameter modification are actively encouraged.
 
-All three applications are functional, but their UIs are basic and ugly. Note that you will probably get some really weird sounds from the first two.
+All applications are functional, but their UIs are often basic and ugly. Note that you will probably get some really weird sounds too.
 
 
