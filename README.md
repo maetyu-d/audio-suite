@@ -6,7 +6,7 @@ Grid Audio is a deliberately warped take on a DAW: simple in some respects, but 
 
 Pattern Lab explores algorithmically generated musical patterns, realised through a Mega Drive–style chiptunes synthesizer. Extensive pattern generation and parameter modification are actively encouraged.
 
-Forest Fire OSC is a real-time forest fire simulation built in Python using NumPy and Qt/pyqtgraph, modelling fuel, moisture, wind, terrain, rain, embers, and forest regrowth while visualising both the landscape and system metrics. A rule-based OSC layer lets the evolving dynamics drive external systems such as Pure Data via thresholds and events.
+Forest Fire OSC is a real-time forest fire simulation built in Python using NumPy and Qt/pyqtgraph, modelling fuel, moisture, wind, terrain, rain, embers, and forest regrowth while visualising both the landscape and system metrics. A rule-based OSC layer lets the evolving dynamics drive external systems such as Pure Data via thresholds and events. https://youtu.be/KwqHsVlGpEM?si=WCwv7E0Q_PDpaE5V
 
 All applications are functional, but their UIs are often basic and ugly. Note that you will probably get some really weird sounds too.
 
