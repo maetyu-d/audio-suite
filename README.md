@@ -4,6 +4,8 @@ Microsound is a sound-generation application focused on microsound, offering a w
 
 Grid Audio is a deliberately warped take on a DAW: simple in some respects, but highly flexible in others. Each track can operate with its own sense of time, featuring independently modulatable clocks and a programmable timing grid. At any point within this grid, a track can trigger WAV files or execute Python code snippets for sound generation. These code snippets can be aware of their position within a track, the state of other tracks, how many times tracks have been restarted, and can even restart other tracks in response.
 
-Pattern Lab explores algorithmically generated musical patterns, realised through a Mega Drive–style chiptune synthesizer. Extensive pattern generation and parameter modification are not only supported, but actively encouraged.
+Pattern Lab explores algorithmically generated musical patterns, realised through a Mega Drive–style chiptunes synthesizer. Extensive pattern generation and parameter modification are actively encouraged.
+
+All three applications are functional, but their UIs are basic and ugly. Note that you will probably get some really weird sounds from the first two.
 
 
