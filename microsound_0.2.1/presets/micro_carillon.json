@@ -1,0 +1,20 @@
+{
+  "gen_mode": "Wavelet atoms",
+  "micro_ms": 1.1,
+  "wav_base_hz": 660,
+  "wav_count": 6,
+  "wav_spread": 0.15,
+  "harmonic_field_on": true,
+  "harm_base_hz": 220,
+  "harm_count": 14,
+  "harm_detune": 4.0,
+  "harm_mix": 0.65,
+  "event_process": "Clustered",
+  "grains_per_sec": 18,
+  "cluster_size": 3,
+  "cluster_spread_ms": 10,
+  "partial_lock_on": true,
+  "er_cloud_on": true,
+  "er_taps": 200,
+  "er_max_ms": 32
+}

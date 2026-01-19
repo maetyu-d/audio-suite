@@ -1,0 +1,18 @@
+{
+  "gen_mode": "Crackle / corona",
+  "micro_ms": 0.9,
+  "crackle_alpha": 1.25,
+  "crackle_density": 120,
+  "harmonic_field_on": true,
+  "harm_base_hz": 220,
+  "harm_count": 10,
+  "harm_detune": 5.0,
+  "harm_mix": 0.6,
+  "partial_lock_on": true,
+  "partial_stretch": 0.98,
+  "event_process": "Clustered",
+  "grains_per_sec": 14,
+  "cluster_size": 4,
+  "cluster_spread_ms": 16,
+  "er_cloud_on": false
+}

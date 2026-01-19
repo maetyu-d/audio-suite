@@ -1,0 +1,21 @@
+{
+  "gen_mode": "Wavelet atoms",
+  "micro_ms": 1.4,
+  "wav_base_hz": 330,
+  "wav_count": 8,
+  "wav_spread": 0.25,
+  "harmonic_field_on": true,
+  "harm_base_hz": 110,
+  "harm_count": 12,
+  "harm_detune": 3.0,
+  "harm_mix": 0.55,
+  "partial_lock_on": true,
+  "partial_stretch": 1.0,
+  "event_process": "Poisson",
+  "grains_per_sec": 9,
+  "spectral_imprint_on": true,
+  "spectral_imprint_amt": 0.18,
+  "er_cloud_on": true,
+  "er_taps": 240,
+  "er_max_ms": 45
+}

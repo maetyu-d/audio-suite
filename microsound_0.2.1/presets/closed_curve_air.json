@@ -1,0 +1,13 @@
+{
+  "gen_mode": "Noise burst",
+  "micro_ms": 1.8,
+  "noise_tilt": -9.0,
+  "cep_warp_on": true,
+  "cep_factor": 1.25,
+  "event_process": "Poisson",
+  "grains_per_sec": 7,
+  "partial_stretch": 0.98,
+  "er_cloud_on": true,
+  "er_taps": 190,
+  "er_max_ms": 44
+}

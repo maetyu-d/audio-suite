@@ -1,0 +1,20 @@
+{
+  "gen_mode": "Resonant strike",
+  "micro_ms": 2.8,
+  "ring_hz": 180,
+  "ring_decay_ms": 120,
+  "res_bank_on": true,
+  "res_modes": 24,
+  "res_fmin": 90,
+  "res_fmax": 1800,
+  "res_decay_ms": 220,
+  "partial_lock_on": true,
+  "partial_stretch": 1.02,
+  "event_process": "Poisson",
+  "grains_per_sec": 6,
+  "spectral_imprint_on": true,
+  "spectral_imprint_amt": 0.22,
+  "er_cloud_on": true,
+  "er_taps": 300,
+  "er_max_ms": 60
+}

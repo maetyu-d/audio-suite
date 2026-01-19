@@ -1,0 +1,11 @@
+{
+  "gen_mode": "IR fragment",
+  "micro_ms": 1.4,
+  "event_process": "Poisson",
+  "grains_per_sec": 14,
+  "space_ir_on": true,
+  "space_ir_max_samps": 9000,
+  "spectral_imprint_on": true,
+  "spectral_imprint_amt": 0.3,
+  "er_cloud_on": false
+}

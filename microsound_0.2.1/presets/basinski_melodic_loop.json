@@ -1,0 +1,17 @@
+{
+  "gen_mode": "Gaussian click",
+  "micro_ms": 3.6,
+  "harmonic_field_on": true,
+  "harm_base_hz": 147,
+  "harm_count": 8,
+  "harm_detune": 1.5,
+  "harm_mix": 0.5,
+  "event_process": "Poisson",
+  "grains_per_sec": 4,
+  "spectral_imprint_on": true,
+  "spectral_imprint_amt": 0.35,
+  "spectral_imprint_smooth": 0.99,
+  "partial_stretch": 0.9,
+  "er_cloud_on": false,
+  "stereo_width": 0.5
+}

@@ -1,0 +1,13 @@
+{
+  "gen_mode": "Gaussian click",
+  "micro_ms": 4.5,
+  "event_process": "Poisson",
+  "grains_per_sec": 3,
+  "spectral_imprint_on": true,
+  "spectral_imprint_amt": 0.45,
+  "spectral_imprint_smooth": 0.985,
+  "partial_stretch": 0.88,
+  "bp_density": "0:4, 20:2",
+  "er_cloud_on": false,
+  "stereo_width": 0.4
+}

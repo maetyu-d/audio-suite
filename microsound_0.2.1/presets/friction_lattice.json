@@ -1,0 +1,20 @@
+{
+  "gen_mode": "Stick\u2013slip friction",
+  "micro_ms": 2.4,
+  "ss_threshold": 0.85,
+  "ss_build": 0.08,
+  "ss_decay": 0.72,
+  "ss_noise": 0.06,
+  "wg_on": true,
+  "wg_lines": 14,
+  "wg_max_ms": 6.5,
+  "wg_fb": 0.78,
+  "partial_stretch": 1.18,
+  "partial_lock_on": true,
+  "event_process": "Clustered",
+  "grains_per_sec": 22,
+  "cluster_size": 8,
+  "cluster_spread_ms": 18,
+  "er_cloud_on": false,
+  "stereo_width": 0.35
+}

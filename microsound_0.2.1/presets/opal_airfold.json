@@ -1,0 +1,18 @@
+{
+  "gen_mode": "Wavelet atoms",
+  "micro_ms": 1.6,
+  "wav_base_hz": 1800,
+  "wav_count": 10,
+  "wav_spread": 0.9,
+  "unfold_mode": "Multi-band unfold",
+  "mb_u1": 60,
+  "mb_u2": 32,
+  "mb_u3": 16,
+  "event_process": "Poisson",
+  "grains_per_sec": 10,
+  "stereo_on": true,
+  "stereo_width": 0.85,
+  "er_cloud_on": true,
+  "er_taps": 300,
+  "er_max_ms": 48
+}

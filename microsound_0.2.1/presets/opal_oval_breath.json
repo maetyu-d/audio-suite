@@ -1,0 +1,15 @@
+{
+  "gen_mode": "Wavelet atoms",
+  "micro_ms": 2.6,
+  "wav_base_hz": 900,
+  "wav_count": 5,
+  "wav_spread": 0.3,
+  "event_process": "Poisson",
+  "grains_per_sec": 6,
+  "bp_density": "0:4, 8:9, 16:4",
+  "partial_stretch": 1.08,
+  "er_cloud_on": true,
+  "er_taps": 300,
+  "er_max_ms": 52,
+  "stereo_width": 0.85
+}

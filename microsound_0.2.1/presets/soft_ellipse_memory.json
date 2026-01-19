@@ -1,0 +1,15 @@
+{
+  "gen_mode": "Noise burst",
+  "micro_ms": 2.2,
+  "noise_tilt": -8.0,
+  "event_process": "Poisson",
+  "grains_per_sec": 6,
+  "spectral_imprint_on": true,
+  "spectral_imprint_amt": 0.25,
+  "spectral_imprint_smooth": 0.97,
+  "partial_stretch": 0.95,
+  "bp_cutoff": "0:14000, 12:9000, 24:6000",
+  "er_cloud_on": true,
+  "er_taps": 180,
+  "er_max_ms": 40
+}

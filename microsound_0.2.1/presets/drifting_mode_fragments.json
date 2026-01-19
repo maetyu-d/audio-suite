@@ -1,0 +1,18 @@
+{
+  "gen_mode": "Noise burst",
+  "micro_ms": 1.7,
+  "noise_tilt": -10.0,
+  "cep_warp_on": true,
+  "cep_factor": 1.15,
+  "harmonic_field_on": true,
+  "harm_base_hz": 196,
+  "harm_count": 9,
+  "harm_detune": 6.0,
+  "harm_mix": 0.4,
+  "event_process": "Poisson",
+  "grains_per_sec": 7,
+  "partial_stretch": 0.97,
+  "er_cloud_on": true,
+  "er_taps": 220,
+  "er_max_ms": 40
+}

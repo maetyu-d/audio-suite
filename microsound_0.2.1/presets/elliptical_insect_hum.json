@@ -1,0 +1,17 @@
+{
+  "gen_mode": "Micro-chaos",
+  "micro_ms": 1.4,
+  "chaos_r": 3.91,
+  "chaos_gate": 0.22,
+  "unfold_mode": "Multi-band unfold",
+  "mb_u1": 34,
+  "mb_u2": 22,
+  "mb_u3": 14,
+  "event_process": "Poisson",
+  "grains_per_sec": 8,
+  "nl_warp_on": true,
+  "nl_warp_power": 1.2,
+  "er_cloud_on": true,
+  "er_taps": 210,
+  "er_max_ms": 36
+}

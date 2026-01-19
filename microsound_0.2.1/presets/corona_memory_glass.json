@@ -1,0 +1,23 @@
+{
+  "gen_mode": "Crackle / corona",
+  "micro_ms": 0.7,
+  "crackle_alpha": 1.35,
+  "crackle_density": 260,
+  "crackle_kernel": 48,
+  "event_process": "Hawkes",
+  "grains_per_sec": 16,
+  "hawkes_gain": 0.85,
+  "hawkes_decay_s": 0.18,
+  "unfold_mode": "Multi-band unfold",
+  "mb_u1": 48,
+  "mb_u2": 26,
+  "mb_u3": 14,
+  "partial_lock_on": true,
+  "partial_stretch": 1.12,
+  "spectral_imprint_on": true,
+  "spectral_imprint_amt": 0.42,
+  "spectral_imprint_smooth": 0.94,
+  "er_cloud_on": true,
+  "er_taps": 420,
+  "er_max_ms": 55
+}

@@ -1,0 +1,15 @@
+{
+  "gen_mode": "Image scanline",
+  "micro_ms": 0.8,
+  "unfold_mode": "Classic reinterpret",
+  "partial_stretch": 1.35,
+  "event_process": "Clustered",
+  "grains_per_sec": 26,
+  "cluster_size": 10,
+  "cluster_spread_ms": 12,
+  "nl_warp_on": true,
+  "nl_warp_power": 1.9,
+  "er_cloud_on": true,
+  "er_taps": 220,
+  "er_max_ms": 35
+}

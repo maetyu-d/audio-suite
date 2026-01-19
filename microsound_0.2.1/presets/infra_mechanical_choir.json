@@ -1,0 +1,18 @@
+{
+  "gen_mode": "Resonant strike",
+  "micro_ms": 3.5,
+  "ring_hz": 420,
+  "ring_decay_ms": 90,
+  "res_bank_on": true,
+  "res_modes": 36,
+  "res_fmin": 90,
+  "res_fmax": 4200,
+  "res_decay_ms": 160,
+  "partial_lock_on": true,
+  "partial_stretch": 0.88,
+  "event_process": "Clustered",
+  "grains_per_sec": 8,
+  "cluster_size": 6,
+  "cluster_spread_ms": 40,
+  "bp_unfold": "0:18, 6:40, 14:22"
+}
