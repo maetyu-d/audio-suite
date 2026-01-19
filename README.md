@@ -1,4 +1,5 @@
-Microsound is, as the name suggests, a sound generation application based around generating microsound, with plenty of strange/different/new generation techniques, most notably the ability to produce an initial transient at very high sample rates (bandlimited or not), and then unfold this transient by up to hundreds of times in the time domain, and/or stretch its spectrum by up to x4.0.
+Microsound is a sound-generation application focused on microsound, offering a wide range of unusual, experimental, and novel synthesis techniques. Most notably, it can generate an initial transient at extremely high sample rates (optionally band-limited), then unfold this transient by up to hundreds of times in the time domain and/or stretch its spectrum by up to ×4.0.
 
+Grid Audio is a deliberately warped take on a DAW: simple in some respects, but highly flexible in others. Each track can operate with its own sense of time, featuring independently modulatable clocks and a programmable timing grid. At any point within this grid, a track can trigger WAV files or execute Python code snippets for sound generation. These code snippets can be aware of their position within a track, the state of other tracks, how many times tracks have been restarted, and can even restart other tracks in response.
 
-
+Pattern Lab explores algorithmically generated musical patterns, realised through a Mega Drive–style chiptune synthesizer. Extensive pattern generation and parameter modification are not only supported, but actively encouraged.
