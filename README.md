@@ -8,6 +8,8 @@ Pattern Lab explores algorithmically generated musical patterns, realised throug
 
 TapeTUC enables a selected audio file to be chopped up and each section to play back at a different speed (forwards or reverse). A unique feature is that the overall playback time can be adjusted independently, and the speed relationships between all segments will be preserved. Several tape-like behaviours can also be switched on and off. A quick video demo can be found here: https://youtu.be/9qANQdzZNiE 
 
+Scrubber enables simple, gestural tape-against-tape-head-like scrubbing of audio, with a few tricks up its sleeve like multiple playback heads and a vsarispeed mode (tape can manipulated while playing back at any speed and the effects are cumulative).
+
 Forest Fire OSC is a real-time forest fire simulation built in Python using NumPy and Qt/pyqtgraph, modelling fuel, moisture, wind, terrain, rain, embers, and forest regrowth while visualising both the landscape and system metrics. A rule-based OSC layer lets the evolving dynamics drive external systems such as Pure Data via thresholds and events. [video demo](https://youtu.be/KwqHsVlGpEM?si=WCwv7E0Q_PDpaE5V)
 
 All applications are functional, but their UIs are often basic and ugly. Note that, intentionally or otherwise you will probably get some really odd sounds too!
